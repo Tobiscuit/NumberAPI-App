@@ -4,7 +4,7 @@ const outputSection = document.querySelector('section.output');
 const typeInput = document.getElementById('type');
 let number = 42;
 let type = '';
-let NUMBERS_API = `http://numbersapi.com`;
+let NUMBERS_API = `https://numbersapi.com`;
 let textFrag = '';
 
 
